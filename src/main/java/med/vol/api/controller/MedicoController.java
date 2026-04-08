@@ -14,4 +14,6 @@ public class MedicoController {
     public void cadastrar(@RequestBody DadosCadastroMedico dados){
         System.out.println(dados);
     }
+
+
 }
